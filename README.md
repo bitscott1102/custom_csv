@@ -1,4 +1,4 @@
-Make sure read the document [Twitter Data dictionary](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview/tweet-object) to get familar with what's inside the File.  For example: 
+Make sure read the document [Twitter Data dictionary](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview/tweet-object) to get familar with what's inside the File.  For example:
 
 | Attribute  | Type   | Description                                                  |
 | ---------- | ------ | ------------------------------------------------------------ |
@@ -31,7 +31,7 @@ python3 convert_file.py
 
 ![image-20200918173116446](https://i.loli.net/2020/09/19/Mf4jkP1xOZpWzB9.png)
 
-![image-20200918173138603](/Users/gongshouliang/Library/Application Support/typora-user-images/image-20200918173138603.png)
+![image-20200918173138603](https://i.loli.net/2020/09/19/QrHmgvYxSoZcF6n.png)
 
 On terminal after the code is finished, three files will be created: 
 
